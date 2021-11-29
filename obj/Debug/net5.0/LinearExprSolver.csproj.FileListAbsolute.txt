@@ -1,0 +1,16 @@
+C:\Users\Isomorphism\source\repos\LinearExprSolver\LinearExprSolver\bin\Debug\net5.0\LinearExprSolver.exe
+C:\Users\Isomorphism\source\repos\LinearExprSolver\LinearExprSolver\bin\Debug\net5.0\LinearExprSolver.deps.json
+C:\Users\Isomorphism\source\repos\LinearExprSolver\LinearExprSolver\bin\Debug\net5.0\LinearExprSolver.runtimeconfig.json
+C:\Users\Isomorphism\source\repos\LinearExprSolver\LinearExprSolver\bin\Debug\net5.0\LinearExprSolver.runtimeconfig.dev.json
+C:\Users\Isomorphism\source\repos\LinearExprSolver\LinearExprSolver\bin\Debug\net5.0\LinearExprSolver.dll
+C:\Users\Isomorphism\source\repos\LinearExprSolver\LinearExprSolver\bin\Debug\net5.0\ref\LinearExprSolver.dll
+C:\Users\Isomorphism\source\repos\LinearExprSolver\LinearExprSolver\bin\Debug\net5.0\LinearExprSolver.pdb
+C:\Users\Isomorphism\source\repos\LinearExprSolver\LinearExprSolver\obj\Debug\net5.0\LinearExprSolver.csproj.AssemblyReference.cache
+C:\Users\Isomorphism\source\repos\LinearExprSolver\LinearExprSolver\obj\Debug\net5.0\LinearExprSolver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isomorphism\source\repos\LinearExprSolver\LinearExprSolver\obj\Debug\net5.0\LinearExprSolver.AssemblyInfoInputs.cache
+C:\Users\Isomorphism\source\repos\LinearExprSolver\LinearExprSolver\obj\Debug\net5.0\LinearExprSolver.AssemblyInfo.cs
+C:\Users\Isomorphism\source\repos\LinearExprSolver\LinearExprSolver\obj\Debug\net5.0\LinearExprSolver.csproj.CoreCompileInputs.cache
+C:\Users\Isomorphism\source\repos\LinearExprSolver\LinearExprSolver\obj\Debug\net5.0\LinearExprSolver.dll
+C:\Users\Isomorphism\source\repos\LinearExprSolver\LinearExprSolver\obj\Debug\net5.0\ref\LinearExprSolver.dll
+C:\Users\Isomorphism\source\repos\LinearExprSolver\LinearExprSolver\obj\Debug\net5.0\LinearExprSolver.pdb
+C:\Users\Isomorphism\source\repos\LinearExprSolver\LinearExprSolver\obj\Debug\net5.0\LinearExprSolver.genruntimeconfig.cache
